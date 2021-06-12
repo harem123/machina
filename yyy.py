@@ -1,5 +1,6 @@
 # importing everyting from tkinter
 from tkinter import *
+import random
 # expression to access among all the functions
 expression = ""
 # functions
